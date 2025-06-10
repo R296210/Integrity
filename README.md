@@ -1,3 +1,6 @@
-V2 PYTHON   App de calculadora usando solo lenguaje Python 
+2.- INTEGRITY MATTHEW 25:23
 
-V1 PYTHON + KIVY  App de calculadora usando lenguaje kivilang para KIVY y la GUI y Python para la logica entre la App y el file.kv 
+V2 PYTHON   APP DE CALCULADORA USANDO LENGUAJE PYTHON 
+
+V1 PYTHON + KIVY  APP DE CALCULADORA USANDO LENGUAJE PYTHON + KIVYLANG PARA LA GUI 
+
